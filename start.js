@@ -1,9 +1,3 @@
-#!/usr/bin/env node
-
-/**
- * Module dependencies.
- */
-
 const app = require('./app');
 const debug = require('debug')('favorite-restaurant-search:server');
 const http = require('http');
